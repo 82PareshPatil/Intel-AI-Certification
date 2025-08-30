@@ -68,6 +68,10 @@ This project was completed as part of the **Intel® AI for Manufacturing Certifi
 
 ## 👨‍💻 Created By
 
+**Paresh Patil**  
+🔗 GitHub: [github.com/82PareshPatil](https://github.com/82PareshPatil)  
+🔗 LinkedIn: [linkedin.com/in/paresh-patil-171801248](https://www.linkedin.com/in/paresh-patil-171801248)
+
 **Ayan Memon**  
 🔗 GitHub: [github.com/AyanMemon296](https://github.com/AyanMemon296)  
 🔗 LinkedIn: [linkedin.com/in/ayanmemon296](https://linkedin.com/in/ayanmemon296)  
